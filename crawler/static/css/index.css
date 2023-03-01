@@ -1,0 +1,80 @@
+*{
+  direction: ltr;
+  text-decoration: none !important;
+  color: black;
+}
+.card{
+  margin: 20px;
+}
+.card-header{
+  color: white !important;
+}
+.container{
+  
+  margin: 20px;
+  padding: 0px 52px 52px 52px;
+  width: 80% !important;
+}
+.city{
+  padding-right: 35px !important;
+  padding-bottom: 17px !important; 
+  width: 15% !important;
+  display: inline !important;
+  margin: 5px !important;
+
+}
+.search-btn{
+  width: 10% !important;
+  display: inline !important;
+  margin: 5px !important;
+}
+
+.kword {
+  width: 70% !important;
+  display: inline !important;
+  margin: 5px !important;
+}
+
+.searchbar-container{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.card-icon {
+  width: 114px;
+  display: inline;
+  border-radius: var(--bs-card-inner-border-radius) ;
+}
+.card-content {
+  padding: 20px;
+  display: flex;  
+  background-color: #ffffff;
+}
+.card-text{
+  font-size: 13px;
+  margin-bottom: 13px;
+  display: inline;
+}
+.card-time-icon{
+  margin: -2px 2px 0px 6px;
+  opacity: 0.7;
+}
+.card-body{
+  margin-right: 20px;
+}
+.card-readm-btn{
+  margin-top: 20px;
+}
+.bottom-card {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  align-items: center;
+}
+
+.simplyhired{
+  background-color: #4abeab7a !important;
+  border-color: #4abeab7a !important;
+}
